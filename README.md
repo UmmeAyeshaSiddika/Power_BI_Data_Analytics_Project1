@@ -18,7 +18,7 @@ c. Created connections, joins new tables, calculations to manipulate data and en
 d.Used different types of customized visualization ( bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line
 chart, area chart, map, sliers etc.)
 
-#Insigts from the Dashboard
-1.
+#Insigts from the Dashboard:
+1. Maharashtra, Madhya Pradesh, Uttar 
 
 
