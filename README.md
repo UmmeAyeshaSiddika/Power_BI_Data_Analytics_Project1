@@ -19,6 +19,12 @@ d.Used different types of customized visualization ( bar chart, pie chart, donut
 chart, area chart, map, sliers etc.)
 
 #Insigts from the Dashboard:
-1. Maharashtra, Madhya Pradesh, Uttar 
+1. Maharashtra, Madhya Pradesh, Uttar Pradesh are the top 3 states.
+2. Top profits months are January, March, August and October.
+3. Highest selling products is clothing (~63%).
+4. Maximum profits came from Printers selling.
+5. Most used payment method is cash on delivery; Secondly, Credit and Debit card.
+
+#
 
 
