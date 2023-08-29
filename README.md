@@ -25,6 +25,8 @@ chart, area chart, map, sliers etc.)
 4. Maximum profits came from Printers selling.
 5. Most used payment method is cash on delivery; Secondly, Credit and Debit card.
 
-#
+#Conclusion to improve sales :
+To increase sales, store owner may  offer discount, coupon with lottery, percentages cash back on Card the months which have less 
+profits and telecasts ads frequently the areas which have less sales.
 
 
