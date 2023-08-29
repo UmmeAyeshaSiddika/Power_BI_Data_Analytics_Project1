@@ -2,7 +2,7 @@
 This is a Power BI end to end project
 
 # Objectives:
-A store owner wants that Data Analytics help him to create a dashboard which track and analyze their online sales across country to find where their .
+A store owner wants that Data Analytics help him to create a dashboard which track and analyze their online sales across country to improve their service and increase sales in the states where the have less profits.
 
 # Prepare:
 Collects necessary files as CSV files such as: Details and Orders from the store database.
