@@ -12,5 +12,7 @@ To process the data, load data into Power BI,transorm data and make necessary ch
 data view mode such as: add or remove column, calculations, remove decimal, change data type etc.
 
 #Analysis:
-a. Created interactive 
+a. Created interactive Dashboard to track and analyze online sales data,
+b. Used complex parameters to drill down in worksheet and customization using filters and slicers,
+
 
