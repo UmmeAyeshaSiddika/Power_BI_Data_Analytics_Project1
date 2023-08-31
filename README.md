@@ -2,7 +2,7 @@
 This is a Power BI end to end project
 
 # Objectives:
-A store owner wants that Data Analytics help him to create a dashboard which track and analyze their online sales across country to improve their service and increase sales in the states where the have less profits.
+A store owner wants that Data Analytics help him to create a dashboard which track and analyze their online sales across country to improve their service and increase sales in the states where and when they have less profits.
 
 # Prepare:
 Collects necessary files as CSV files such as: Details and Orders from the store database.
@@ -26,7 +26,7 @@ chart, area chart, map, sliers etc.).
 5. Most used payment method is cash on delivery; Secondly, Credit and Debit card.
 
 # Conclusion to improve sales :
-To increase sales, store owner may  offer discount, coupon with lottery, percentages cash back on Card the months which have less 
-profits and telecasts ads frequently the areas which have less sales.
+To increase sales, store owner may  offer discount, coupon with lottery, percentages cash back on Card the months when have less 
+profits and telecasts ads frequently the areas where have less sales.
 
 
